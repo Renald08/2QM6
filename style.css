@@ -1,0 +1,62 @@
+body{
+    background: url("bgwebpage.jpg");
+    background-size: 100%;
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+
+
+.h1 {
+  color:grey;
+
+}
+
+
+
+nav {
+    position: fixed;
+    top: 0;
+    float: right;
+    width: 100%;
+    background-color: #333;
+    padding: 14px 16px; 
+
+}
+
+nav a {
+    float: right;
+    display: block;
+    color: #F2F2F2;
+    text-align: center;
+    padding: 14PX 16PX;
+    text-decoration: none;
+    margin: 10px 10px;
+}
+
+.nav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 20px 20px;
+    padding: 0;
+}
+
+li {
+    display: inline; 
+    margin-right: 20px;
+    margin: 10px 10px 20px 20px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+
